@@ -1,7 +1,7 @@
 ---
-title: "Modeling household car ownership using ordered logistic regression model"
+title: "Modeling Household Car Ownership Using Ordered Logit Model"
 collection: publications
-permalink: /publication/2014-03-01-Modeling household car ownership using ordered logistic regression model
+permalink: /publication/2014-03-01-Modeling Household Car Ownership Using Ordered Logit Model
 excerpt: 'Considering both the discrete and ordered nature of the household car ownership, an ordered logistic regression model to predict the household car ownership is established using the data of Nanjing household travel survey in the year 2012. The model results show some household characteristics such as the number of drive licenses, the household income and the home location were significant. Yet, the intersection density indicating the street pattern of home location, and the dummy near the subway and the bus stop density indicating the transit accessibility of home location are insignificant. The model estimation obtains a good ɤ2 (the goodness of fit of the model) and the model validation also shows a good performance in prediction. The marginal effects of all the significant explanatory variables are calculated to quantify the odds change in the household car ownership following a one-unit change in the explanatory variables.'
 date: 2014-03-01
 venue: 'Journal of Southeast University'
