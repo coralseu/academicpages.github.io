@@ -8,8 +8,6 @@ date: 2017-09-01
 location: "杭州, 中国"
 ---
 
-课程性质：
-
 数据分析和可视化是有目的的收集、整理、加工和分析数据，提炼并展示有价信息的一个过程，在日常工作、科学研究、商业活动中有重要的作用。本课程旨在培养学生实际获取数据、处理数据、分析数据、展示数据的技能，为学生今后从事相关工作打下基础。
 
 教学目标：
@@ -21,14 +19,14 @@ location: "杭州, 中国"
 
 教材：
 
-R for Data Science，Hadley Wickham，Garrett Grolemund，O’REILLY，2016.
+1. R for Data Science，Hadley Wickham，Garrett Grolemund，O’REILLY，2016.
 
 参考书：
 
 1. R Graphics Cookbook，Winston Chang，O’REILLY，2012. 
 2. R语言实战，Robert I. Kabacoff著 王小宁等译，中国工信出版集团、人民邮电出版社，2016，第二版.
 
-课程PPT：
+PPT：
 
 1. 引言
 2. [创建数据集](http://rpubs.com/coralseu/317633)
