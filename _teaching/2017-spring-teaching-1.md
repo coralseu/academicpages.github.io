@@ -1,5 +1,5 @@
 ---
-title: "对外交通"
+title: "对外交通规划"
 collection: teaching
 type: "本科生专业课"
 permalink: /teaching/2017-spring-teaching-1
