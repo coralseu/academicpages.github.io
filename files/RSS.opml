@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+ <head>
+  <title>OPML exported from Outlook</title>
+  <dateCreated>Mon, 22 Jan 2018 22:47:39 +0800</dateCreated>
+  <dateModified>Mon, 22 Jan 2018 22:47:39 +0800</dateModified>
+ </head>
+ <body>
+  <outline text="国际城市规划-CNKI" type="rss"
+  xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=GWCG&amp;Virtual=knavi"/>
+  <outline
+  text="Taylor &amp; Francis: Transportmetrica B: Transport Dynamics: Table of Contents"
+  type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ttrb20"/>
+  <outline
+  text="ScienceDirect Publication: Transportation Research Part B: Methodological"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/01912615"/>
+  <outline text="城市规划学刊-CNKI" type="rss"
+  xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=CXGH&amp;Virtual=knavi"/>
+  <outline
+  text="Routledge: Transportation Planning and Technology: Table of Contents"
+  type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=792394&amp;ai=xg&amp;jc=gtpt20&amp;type=etoc&amp;feed=rss"/>
+  <outline
+  text="ScienceDirect Publication: Transportation Research Part F: Traffic Psychology and Behaviour"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/13698478"/>
+  <outline text="ScienceDirect Publication: Journal of Transport Geography"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09666923"/>
+  <outline text="城市规划" type="rss"
+  xmlUrl="http://c.wanfangdata.com.cn/Rss.ashx?NodeID=csgh"/>
+  <outline text="ScienceDirect Publication: Travel Behaviour and Society"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/2214367X"/>
+  <outline text="maritime haircut policy" type="rss"
+  xmlUrl="http://rss.sciencedirect.com/publication/science/0967070X"/>
+  <outline text="Taylor &amp; Francis: Transportation Letters: Table of Contents"
+  type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ytrl20"/>
+  <outline text="万方数据知识服务平台期刊资源更新-城市交通" type="rss"
+  xmlUrl="http://c.wanfangdata.com.cn/Rss.ashx?NodeID=csjt"/>
+  <outline
+  text="Taylor &amp; Francis: International Journal of Sustainable Transportation: Table of Contents"
+  type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=792394&amp;ai=192&amp;jc=ujst20&amp;type=etoc&amp;feed=rss"/>
+  <outline
+  text="ScienceDirect Publication: Transportation Research Part E: Logistics and Transportation Review"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/13665545"/>
+  <outline
+  text="ScienceDirect Publication: Transportation Research Part D: Transport and Environment"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/13619209"/>
+  <outline text="Routledge: Transport Reviews: Table of Contents" type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=6bq2c3&amp;ai=17g&amp;jc=ttrv20&amp;type=etoc&amp;feed=rss"/>
+  <outline
+  text="ScienceDirect Publication: Transportation Research Part C: Emerging Technologies"
+  type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/0968090X"/>
+  <outline text="Transportation Research Part A: Policy and Practice" type="rss"
+  xmlUrl="http://rss.sciencedirect.com/publication/science/09658564"/>
+  <outline text="Taylor &amp; Francis: Transport: Table of Contents" type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=6bq2c3&amp;ai=2uy&amp;jc=tran20&amp;type=etoc&amp;feed=rss"/>
+  <outline
+  text="Taylor &amp; Francis: Transportmetrica A: Transport Science: Table of Contents"
+  type="rss"
+  xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=6xlc04&amp;ai=186xw&amp;jc=ttra21&amp;type=etoc&amp;feed=rss"/>
+  <outline text="万方数据知识服务平台期刊资源更新-现代城市研究" type="rss"
+  xmlUrl="http://c.wanfangdata.com.cn/Rss.ashx?NodeID=xdcsyj"/>
+  <outline text="规划师-CNKI" type="rss"
+  xmlUrl="http://rss.cnki.net/kns/rss.aspx?Journal=GHSI&amp;Virtual=knavi"/>
+  <outline text="Latest Results for Transportation" type="rss"
+  xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11116&amp;channel-name=Transportation"/>
+ </body>
+</opml>
