@@ -19,7 +19,7 @@ location: "杭州, 中国"
 
 教材：
 
-1. R for Data Science，Hadley Wickham，Garrett Grolemund，O’REILLY，2016.
+1. R数据科学，Hadley Wickham，Garrett Grolemund著 陈光欣译，中国工信出版集团、人民邮电出版社，2018.
 
 参考书：
 
